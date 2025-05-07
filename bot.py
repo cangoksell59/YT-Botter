@@ -11,12 +11,12 @@ print(" ")
 print("YT-BoTTeR v2.0 - By Xale - GitHub: @xaletr")
 print(" ")
 
-video = input("Target Video Link : ")
+video = input("https://www.youtube.com/watch?v=2tDkof8bp-8 : ")
 
 os.system("clear")
 time.sleep(3)
 print("Yükleniyor...")
-print("Gönderilecek İzlenme : 20")
+print("Gönderilecek İzlenme : 1000")
 time.sleep(2)
 os.system("clear")
 
